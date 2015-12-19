@@ -14,5 +14,5 @@ Hier vind je alle informatie omtrent het opbouwen en het stijlen van de website
 [6. Simpele CSS](/6.%20ASimpele%20css/)  
 
 [7. Extra klassen](/7.%20Extra%20klassen/)  
-
+  
 ###Voor complexe problemen kan u best mij raadplegen
