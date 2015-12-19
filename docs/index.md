@@ -12,3 +12,5 @@ Hier vind je alle informatie omtrent het opbouwen en het stijlen van de website
 [5. Aangepaste stijl](/5.%20Aangepaste%20stijl/)  
 
 [6. Simpele CSS](/6.%20ASimpele%20css/)  
+
+###Voor complexe problemen kan u best mij raadplegen
